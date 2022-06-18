@@ -12,6 +12,7 @@ video_test*.py
 data
 ckpt
 
+
 # C extensions
 *.so
 
